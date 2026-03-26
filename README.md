@@ -2,7 +2,7 @@
 
 > **Copyright (c) 2026 Liam J Hammersley** — Licensed under the [MIT License](LICENSE)
 
-A PowerShell script that disables the Microsoft Edge Password Manager via Group Policy and removes all saved password databases across every local user profile on a Windows device.
+A PowerShell script that disables the Microsoft Edge Password Manager via the Registry and removes all saved password databases across every local user profile on a Windows device.
 
 Designed to be Datto RMM-compatible with meaningful exit codes, but works equally well as a standalone script or deployed via any RMM platform.
 
